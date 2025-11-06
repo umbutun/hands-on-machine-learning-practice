@@ -27,9 +27,9 @@ Each chapter folder includes:
 ## 📚 Chapters & Notebooks
 
 | Chapter | Title | Description | Resources |
-|:--------:|--------|--------------|-------------|
+|:--------:|--------|--------------|----------------|
 | 1 | The Machine Learning Landscape | Overview of ML types, challenges, and workflow foundations. | [📓 Notebook](./notebooks/chapter_01_the_machine_learning_landscape/chapter_01_notebook.ipynb) • [🗒️ ReadMe](./notebooks/chapter_01_the_machine_learning_landscape/README.md) |
-| 2 | End-to-End Machine Learning Project 🏠 | Full ML workflow on housing data — data cleaning, feature engineering, model building. | [🌐 Project Repo](https://github.com/umbutun/real-estate-price-predictor) • [🗒️ ReadMe](./notebooks/chapter_02_end_to_end_project/README.md) |
+| 2 | End-to-End Machine Learning Project 🏠 | Full ML workflow on housing data — data cleaning, feature engineering, model building. | 🌐&nbsp;[Project&nbsp;Repo](https://github.com/umbutun/real-estate-price-predictor)&nbsp;•&nbsp;<br>[🗒️&nbsp;ReadMe](./notebooks/chapter_02_end_to_end_project/README.md) |(./notebooks/chapter_02_end_to_end_project/README.md) |(./notebooks/chapter_02_end_to_end_project/README.md) |
 | 3 | Classification | Intro to classification using MNIST dataset. Logistic regression, precision/recall, ROC, and multiclass methods. | [📓 Notebook](./notebooks/chapter_03_classification/chapter_03_notebook.ipynb) • [🗒️ ReadMe](./notebooks/chapter_03_classification/README.md) |
 | 4 | Training Models | Linear regression, gradient descent, regularization, and early stopping. | [📓 Notebook](./notebooks/chapter_04_training_models/chapter_04_notebook.ipynb) • [🗒️ ReadMe](./notebooks/chapter_04_training_models/README.md) |
 | 5 | Support Vector Machines (SVMs) | Linear and nonlinear classification/regression, kernels, margins, and C parameter. | [📓 Notebook](./notebooks/chapter_05_support_vector_machines/chapter_05_notebook.ipynb) • [🗒️ ReadMe](./notebooks/chapter_05_support_vector_machines/README.md) |
