@@ -1,0 +1,28 @@
+# Core Python version
+python>=3.10
+
+# Data manipulation and numerical computing
+numpy>=1.26
+pandas>=2.2
+
+# Machine learning
+scikit-learn>=1.5
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+
+# Jupyter environment
+jupyterlab>=4.2
+ipykernel>=6.29
+
+# Utilities
+tqdm>=4.66
+joblib>=1.4
+
+# Optional but useful for chapter 2–4
+scipy>=1.13
+statsmodels>=0.14
+
+# Reproducibility
+pyyaml>=6.0
