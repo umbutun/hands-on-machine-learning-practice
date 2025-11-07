@@ -85,7 +85,7 @@ jupyter notebook
 	•	TensorFlow / Keras
 	•	JupyterLab
 
-(See requirements.txt for full list.)
+(See [requirements.txt](requirements.txt) for full list.)
 
 ---
 
