@@ -25,8 +25,18 @@ It outlines the main types of learning (supervised, unsupervised, reinforcement)
 ---
 
 ### 📊 Preview
-![Sample Plot](../../assets/charts/chapter_01_sample.png)
-*Figure 1: Illustration of overfitting vs. underfitting*
+
+<p align="left">
+  <img src="../../assets/charts/chapter_01_%20overfitting_model_plot.png" width="75%" alt="Overfitting Model Plot"/>
+</p>
+
+*Figure 1: Illustration of an Overfitting Model - high degree polynomial regression.*
+
+<p align="left">
+<img src="../../assets/charts/chapter_01_%20representative_training_data_scatterplot.png" width="75%" alt="GDP vs Life Satisfaction Scatterplot"/>
+</p>
+
+*Figure 2: GDP per Capita vs. Life Satisfaction — demonstrating data relationships.*
 
 ---
 
