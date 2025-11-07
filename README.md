@@ -111,4 +111,4 @@ This repository is licensed under the MIT License￼.
 
 ---
 
-> _ “Learning by doing — one model, one notebook at a time.”_
+> _“Learning by doing — one model, one notebook at a time.”_
