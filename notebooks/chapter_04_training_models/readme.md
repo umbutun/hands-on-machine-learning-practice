@@ -22,6 +22,10 @@ You’ll experiment with gradient descent variants and visualize how models lear
 - Compared learning behaviors of different optimizers  
 - Demonstrated impact of regularization on bias–variance trade-off  
 - Visualized cost-function convergence and learning curves  
+---
+
+### 📓 Notebook
+[Open Notebook](./chapter_04_notebook.ipynb)
 
 ---
 
