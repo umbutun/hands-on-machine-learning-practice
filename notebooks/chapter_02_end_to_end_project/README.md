@@ -25,6 +25,11 @@ By the end, you’ll have a complete predictive model and a reproducible workflo
 
 ---
 
+### 📓 Notebook
+[Open Notebook](https://github.com/umbutun/real-estate-price-predictor/blob/main/notebook/real_estate_price_predictor.ipynb)
+
+---
+
 ### 📊 Preview
 ![Correlation Heatmap](../../assets/charts/chapter_02_corr_matrix.png)
 *Figure 2: Correlation heatmap of California housing dataset*
@@ -43,7 +48,7 @@ By the end, you’ll have a complete predictive model and a reproducible workflo
 ---
 
 ### 🔗 Resources
-- Géron, A. *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd Edition), Chapter 2  
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Project Repository](https://github.com/umbutun/real-estate-price-predictor)  
 
 ---
