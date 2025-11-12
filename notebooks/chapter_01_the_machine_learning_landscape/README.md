@@ -1,5 +1,6 @@
 # 🧠 Chapter 1 — The Machine Learning Landscape
 
+
 ### 📚 Overview
 This chapter introduces the core ideas behind Machine Learning — what it is, why it matters, and how it differs from traditional programming.  
 It outlines the main types of learning (supervised, unsupervised, reinforcement), common challenges like overfitting and underfitting, and a quick tour of the end-to-end ML workflow.
@@ -21,6 +22,11 @@ It outlines the main types of learning (supervised, unsupervised, reinforcement)
 - Illustrate overfitting/underfitting visually  
 - Discuss the concept of generalization  
 - Set up initial data workflows in Python  
+
+---
+
+### 📓 Notebook
+[Open Notebook](./chapter_01_notebook.ipynb)
 
 ---
 
@@ -48,9 +54,9 @@ It outlines the main types of learning (supervised, unsupervised, reinforcement)
 ---
 
 ### 🔗 Resources
-- Géron, A. *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd Edition), Chapter 1  
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 
 ---
 
-> _“The best way to understand Machine Learning is to see it in action.”_
+> *“The best way to understand Machine Learning is to see it in action.”*
