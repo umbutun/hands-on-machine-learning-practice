@@ -1,6 +1,5 @@
 # 📘 Chapter 4 — Training Models
 
----
 
 ### 🧭 Overview
 This notebook explores the **core algorithms** behind linear and polynomial regression, focusing on how optimization and regularization influence model performance.  
@@ -46,11 +45,10 @@ You’ll experiment with gradient descent variants and visualize how models lear
 ---
 
 ### 📚 Resources
-- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron (Ch. 4)  
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Scikit-Learn Linear Models Documentation](https://scikit-learn.org/stable/modules/linear_model.html)  
 - [Gradient Descent Algorithm Explained – Towards Data Science](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)  
 
 ---
 
-### 💬 Quote
-> *“A model that generalizes well learns patterns, not noise.”*  — Aurélien Géron
+> _“A model that generalizes well learns patterns, not noise.”_  — Aurélien Géron
