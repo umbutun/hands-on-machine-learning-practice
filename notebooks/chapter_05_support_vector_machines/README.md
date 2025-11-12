@@ -1,13 +1,13 @@
-# 📘 Chapter 5 — Support Vector Machines
+# 🎰 Chapter 5 — Support Vector Machines
 
 
-### 🧭 Overview
+### ⅀ Overview
 This notebook introduces **Support Vector Machines (SVMs)**, a family of robust margin-based algorithms for classification and regression.  
 You’ll learn how kernel methods project data into higher dimensions to make it linearly separable.
 
 ---
 
-### 🗝️ Key Topics
+### ⎇ Key Topics
 - Hard-margin vs soft-margin SVM  
 - Polynomial and RBF kernels  
 - Kernel trick and feature space intuition  
@@ -16,7 +16,7 @@ You’ll learn how kernel methods project data into higher dimensions to make it
 
 ---
 
-### 💡 Notebook Highlights
+### 🕯️ Notebook Highlights
 - Visualized decision boundaries under different kernels  
 - Compared SVC and SVR results  
 - Explored how margin width affects generalization  
@@ -45,7 +45,7 @@ You’ll learn how kernel methods project data into higher dimensions to make it
 
 ---
 
-### 📚 Resources
+### ⛓ Resources
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Scikit-Learn SVM Guide](https://scikit-learn.org/stable/modules/svm.html)  
 - [Kernel Tricks Explained – Medium](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-and-implementation-c-324befe0a0d3)  
