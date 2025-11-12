@@ -53,5 +53,4 @@ You’ll experiment with gradient descent variants and visualize how models lear
 ---
 
 ### 💬 Quote
-> *“A model that generalizes well learns patterns, not noise.”*  
-> — Aurélien Géron
+> *“A model that generalizes well learns patterns, not noise.”*  — Aurélien Géron
