@@ -1,6 +1,5 @@
 # 🏛️ Chapter 03: Classification
 
----
 
 ### 📚 Overview
 In this chapter, we explore various classification algorithms and their applications in machine learning. We discuss how to choose the right classification model for your data and evaluate its performance.
@@ -49,5 +48,5 @@ In this chapter, we explore various classification algorithms and their applicat
 
 ---
 
-> *"The goal is to turn data into information, and information into insight."*
+> _"The goal is to turn data into information, and information into insight."_
 > — Carly Fiorina
