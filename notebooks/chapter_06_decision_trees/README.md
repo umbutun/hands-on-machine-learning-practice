@@ -1,13 +1,13 @@
-# 📘 Chapter 6 — Decision Trees
+# 🌲 Chapter 6 — Decision Trees
 
 
-### 🧭 Overview
+### 🪾 Overview
 This notebook covers **Decision Trees**, a simple yet powerful family of models that make hierarchical, interpretable decisions.  
 You’ll learn to visualize trees, tune their complexity, and interpret feature importances.
 
 ---
 
-### 🗝️ Key Topics
+### 🔑 Key Topics
 - Gini impurity and entropy  
 - Tree construction and information gain  
 - Pruning and max-depth constraints  
