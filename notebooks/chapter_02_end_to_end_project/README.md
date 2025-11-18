@@ -48,7 +48,7 @@ By the end, you’ll have a complete predictive model and a reproducible workflo
 ---
 
 ### 🔗 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Project Repository](https://github.com/umbutun/real-estate-price-predictor)  
 
 ---
