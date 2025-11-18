@@ -54,7 +54,7 @@ It outlines the main types of learning (supervised, unsupervised, reinforcement)
 ---
 
 ### 🔗 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 
 ---
