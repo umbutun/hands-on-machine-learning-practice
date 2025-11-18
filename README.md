@@ -54,11 +54,6 @@ Each chapter folder includes:
 | 18 | Autoencoders, GANs & Diffusion Models | Generative models: autoencoders, variational AEs, GANs, and diffusion-based generation. | [📓&nbsp;Notebook](./notebooks/chapter_18_generative/chapter_18_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_18_generative/README.md) |
 | 19 | Reinforcement Learning | Fundamentals of reinforcement learning, training agents, and policy-based methods. | [📓&nbsp;Notebook](./notebooks/chapter_19_rl/chapter_19_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_19_rl/README.md) |
 
-
-
-
-
-
 ---
 
 ## 🧠 Key Learning Goals
@@ -88,6 +83,36 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ---
+## 📁 Repo Structure
+
+```plaintext
+notebooks/
+└── chapter_01_the_machine_learning_landscape/
+└── chapter_02_end_to_end_project/
+└── chapter_03_classification/
+└── chapter_04_training_models/
+└── chapter_05_decision_trees/
+└── chapter_06_ensemble_learning/
+└── chapter_07_dimensionality_reduction/
+└── chapter_08_unsupervised_learning/
+└── chapter_09_intro_nn/
+└── chapter_10_pytorch_nn/
+└── chapter_11_training_deep/
+└── chapter_12_cnn/
+└── chapter_13_sequence/
+└── chapter_14_nlp_attention/
+└── chapter_15_transformers/
+└── chapter_16_multimodal_transformers/
+└── chapter_17_speeding_transformers/
+└── chapter_18_generative/
+└── chapter_19_rl/
+
+assets/
+└── banners/
+└── charts/
+```
+---
+
 ## 🧩 Dependencies
 	•	Python 3.10+
 	•	Scikit-Learn
