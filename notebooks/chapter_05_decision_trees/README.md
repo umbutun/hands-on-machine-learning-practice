@@ -46,7 +46,7 @@ You’ll learn to visualize trees, tune their complexity, and interpret feature 
 ---
 
 ### 📚 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Decision Trees Guide](https://scikit-learn.org/stable/modules/tree.html)  
 - [Understanding Gini and Entropy – Medium](https://medium.com/@dtuk81/confusion-matrix-accuracy-precision-recall-f1-score-6358683bde3f)  
 
