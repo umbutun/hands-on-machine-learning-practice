@@ -1,4 +1,4 @@
-# 🌳 Chapter 7 — Ensemble Learning and Random Forests
+# 🌳 Chapter 6 — Ensemble Learning and Random Forests
 
 
 ### 💧 Overview
@@ -46,7 +46,7 @@ You’ll implement **voting**, **bagging**, **pasting**, and **Random Forests**,
 ---
 
 ### 📚 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Ensemble Methods](https://scikit-learn.org/stable/modules/ensemble.html)  
 - [Bias-Variance Tradeoff – Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)  
 
