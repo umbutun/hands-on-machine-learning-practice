@@ -1,15 +1,16 @@
 # 🤖 Hands-On Machine Learning Practice
 
 *A collection of practical notebooks, exercises, and projects from my journey through*  
-**📘 “Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow” (Aurélien Géron)**
+**📘 “Hands-On Machine Learning with Scikit-Learn and PyTorch” (Aurélien Géron, 2025)**
 
 ---
 
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue.svg)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange.svg)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)]()
+[![Book](https://img.shields.io/badge/Book-Hands--On%20Machine%20Learning%203rd%20Ed.-green.svg)](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 
 ---
 
@@ -26,41 +27,50 @@ Each chapter folder includes:
 
 ## 📚 Chapters & Notebooks
 
+### Part I. The Fundamentals of Machine Learning  
 | Chapter | Title | Description | Resources |
-|:--------:|--------|--------------|----------------|
-| 1 | The Machine Learning Landscape | Overview of ML types, challenges, and workflow foundations. | [📓&nbsp;Notebook](./notebooks/chapter_01_the_machine_learning_landscape/chapter_01_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_01_the_machine_learning_landscape/README.md) |
+|---|---|---|---|
+| 1 | The Machine Learning Landscape | What is machine learning, its types and challenges, overfitting and underfitting, and model selection. | [📓&nbsp;Notebook](./notebooks/chapter_01_the_machine_learning_landscape/chapter_01_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_01_the_machine_learning_landscape/README.md) |
 | 2 | End-to-End Machine Learning Project 🏠 | Full ML workflow on housing data — data cleaning, feature engineering, model building. | [🌐&nbsp;Project&nbsp;Repo](https://github.com/umbutun/real-estate-price-predictor)&nbsp;•&nbsp;<br>[🗒️&nbsp;ReadMe](./notebooks/chapter_02_end_to_end_project/README.md) |(./notebooks/chapter_02_end_to_end_project/README.md) |(./notebooks/chapter_02_end_to_end_project/README.md) |
 | 3 | Classification | Intro to classification using MNIST dataset. Logistic regression, precision/recall, ROC, and multiclass methods. | [📓&nbsp;Notebook](./notebooks/chapter_03_classification/chapter_03_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_03_classification/README.md) |
-| 4 | Training Models | Linear regression, gradient descent, regularization, and early stopping. | [📓&nbsp;Notebook](./notebooks/chapter_04_training_models/chapter_04_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_04_training_models/README.md) |
-| 5 | Support Vector Machines (SVMs) | Linear and nonlinear classification/regression, kernels, margins, and C parameter. | [📓&nbsp;Notebook](./notebooks/chapter_05_support_vector_machines/chapter_05_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_05_support_vector_machines/README.md) |
-| 6 | Decision Trees | Tree structure, impurity measures, and visualization techniques. | [📓&nbsp;Notebook](./notebooks/chapter_06_decision_trees/chapter_06_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_06_decision_trees/README.md) |
-| 7 | Ensemble Learning & Random Forests | Bagging, boosting, stacking, and Random Forests. | [📓&nbsp;Notebook](./notebooks/chapter_07_ensemble_learning/chapter_07_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_07_ensemble_learning/README.md) |
-| 8 | Dimensionality Reduction | PCA, Kernel PCA, and LLE for reducing data complexity. | [📓&nbsp;Notebook](./notebooks/chapter_08_dimensionality_reduction/chapter_08_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_08_dimensionality_reduction/README.md) |
-| 9 | Unsupervised Learning Techniques | Clustering (K-Means, DBSCAN, GMM) and anomaly detection. | [📓&nbsp;Notebook](./notebooks/chapter_09_unsupervised_learning/chapter_09_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_09_unsupervised_learning/README.md) |
-| 10 | Introduction to Artificial Neural Networks | Basics of ANNs, perceptrons, multilayer perceptrons, and backpropagation. | [📓&nbsp;Notebook](./notebooks/chapter_10_introduction_to_anns/chapter_10_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_10_introduction_to_anns/README.md) |
-| 11 | Training Deep Neural Networks | Optimization, batch normalization, dropout, and adaptive optimizers. | [📓&nbsp;Notebook](./notebooks/chapter_11_training_deep_neural_networks/chapter_11_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_11_training_deep_neural_networks/README.md) |
-| 12 | Custom Models and Training with TensorFlow | Custom training loops and low-level APIs. | [📓&nbsp;Notebook](./notebooks/chapter_12_custom_models_tensorflow/chapter_12_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_12_custom_models_tensorflow/README.md) |
-| 13 | Data Preprocessing with TensorFlow | Efficient data ingestion using tf.data API. | [📓&nbsp;Notebook](./notebooks/chapter_13_data_preprocessing_tensorflow/chapter_13_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_13_data_preprocessing_tensorflow/README.md) |
-| 14 | Deep Computer Vision (CNNs) | Convolutions, pooling, and CNN architectures for image data. | [📓&nbsp;Notebook](./notebooks/chapter_14_convolutional_neural_networks/chapter_14_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_14_convolutional_neural_networks/README.md) |
-| 15 | Processing Sequences (RNNs & CNNs) | RNNs, LSTMs, GRUs, and 1D convolutions for sequence data. | [📓&nbsp;Notebook](./notebooks/chapter_15_recurrent_neural_networks/chapter_15_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_15_recurrent_neural_networks/README.md) |
-| 16 | NLP with RNNs and Attention | Attention mechanisms, encoder-decoder models, and sequence-to-sequence learning. | [📓&nbsp;Notebook](./notebooks/chapter_16_nlp_attention/chapter_16_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_16_nlp_attention/README.md) |
-| 17 | Representation Learning & Autoencoders | Autoencoders and generative representations. | [📓&nbsp;Notebook](./notebooks/chapter_17_autoencoders/chapter_17_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_17_autoencoders/README.md) |
-| 18 | Generative Adversarial Networks (GANs) | Adversarial training and creative image generation. | [📓&nbsp;Notebook](./notebooks/chapter_18_gans/chapter_18_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_18_gans/README.md) |
-| 19 | Reinforcement Learning | Agents, rewards, environments, and policy learning. | [📓&nbsp;Notebook](./notebooks/chapter_19_reinforcement_learning/chapter_19_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_19_reinforcement_learning/README.md) |
-| 20 | Deploying TensorFlow Models | Model serving, TensorFlow Lite, and deployment workflows. | [📓&nbsp;Notebook](./notebooks/chapter_20_deployment/chapter_20_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_20_deployment/README.md) |
+| 4 | Training Models | Linear and polynomial regression, gradient descent variants, regularization, and early stopping. | [📓&nbsp;Notebook](./notebooks/chapter_04_training_models/chapter_04_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_04_training_models/README.md) |
+| 5 | Decision Trees | Decision tree algorithms, splitting criteria (Gini, entropy), overfitting in trees, and interpretability. | [📓&nbsp;Notebook](./notebooks/chapter_05_decision_trees/chapter_05_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_05_decision_trees/README.md) |
+| 6 | Ensemble Learning & Random Forests | Combining multiple models (bagging, boosting, stacking, voting) and using Random Forests with feature randomness. | [📓&nbsp;Notebook](./notebooks/chapter_06_ensemble_learning/chapter_06_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_06_ensemble_learning/README.md) |
+| 7 | Dimensionality Reduction | Techniques like PCA, Kernel PCA, and LLE to reduce feature space without losing significant information. | [📓&nbsp;Notebook](./notebooks/chapter_07_dimensionality_reduction/chapter_07_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_07_dimensionality_reduction/README.md) |
+| 8 | Unsupervised Learning Techniques | Clustering methods (K-Means, DBSCAN, GMM) and anomaly detection on unlabeled data. | [📓&nbsp;Notebook](./notebooks/chapter_08_unsupervised_learning/chapter_08_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_08_unsupervised_learning/README.md) |
+
+### Part II. Neural Networks and Deep Learning  
+| Chapter | Title | Description | Resources |
+|---|---|---|---|
+| 9 | Introduction to Artificial Neural Networks | Basics of neural networks, perceptrons, backpropagation, and building small MLPs. | [📓&nbsp;Notebook](./notebooks/chapter_09_intro_nn/chapter_09_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_09_intro_nn/README.md) |
+| 10 | Building Neural Networks with PyTorch | Learn PyTorch fundamentals: tensors, autograd, DataLoader, custom modules, and simple models. | [📓&nbsp;Notebook](./notebooks/chapter_10_pytorch_nn/chapter_10_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_10_pytorch_nn/README.md) |
+| 11 | Training Deep Neural Networks | Training deep networks, initialization, optimizers, batch normalization, and scheduling. | [📓&nbsp;Notebook](./notebooks/chapter_11_training_deep/chapter_11_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_11_training_deep/README.md) |
+| 12 | Deep Computer Vision Using CNNs | Convolutional neural networks in PyTorch: building, training, and transfer learning. | [📓&nbsp;Notebook](./notebooks/chapter_12_cnn/chapter_12_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_12_cnn/README.md) |
+| 13 | Processing Sequences Using RNNs and CNNs | Sequence data modeling with RNNs, LSTMs or CNNs for time series and text. | [📓&nbsp;Notebook](./notebooks/chapter_13_sequence/chapter_13_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_13_sequence/README.md) |
+| 14 | Natural Language Processing with RNNs and Attention | NLP using RNNs plus attention mechanisms for translation, summarization, or generation. | [📓&nbsp;Notebook](./notebooks/chapter_14_nlp_attention/chapter_14_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_14_nlp_attention/README.md) |
+| 15 | Transformers for NLP and Chatbots | Transformers architecture, self-attention, and building simple chatbots / language models. | [📓&nbsp;Notebook](./notebooks/chapter_15_transformers/chapter_15_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_15_transformers/README.md) |
+| 16 | Vision and Multimodal Transformers | Transformer models for images and multimodal inputs, mixing text + vision. | [📓&nbsp;Notebook](./notebooks/chapter_16_multimodal_transformers/chapter_16_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_16_multimodal_transformers/README.md) |
+| 17 | Speeding Up Transformers | Techniques for optimizing transformer training: pruning, quantization, and distillation. | [📓&nbsp;Notebook](./notebooks/chapter_17_speeding_transformers/chapter_17_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_17_speeding_transformers/README.md) |
+| 18 | Autoencoders, GANs & Diffusion Models | Generative models: autoencoders, variational AEs, GANs, and diffusion-based generation. | [📓&nbsp;Notebook](./notebooks/chapter_18_generative/chapter_18_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_18_generative/README.md) |
+| 19 | Reinforcement Learning | Fundamentals of reinforcement learning, training agents, and policy-based methods. | [📓&nbsp;Notebook](./notebooks/chapter_19_rl/chapter_19_notebook.ipynb) • [🗒️&nbsp;ReadMe](./notebooks/chapter_19_rl/README.md) |
+
+
+
+
+
 
 ---
 
-### 🧠 Key Learning Goals
+## 🧠 Key Learning Goals
 - Build, train, and evaluate ML models with Scikit-Learn  
 - Design reproducible ML workflows  
 - Understand feature engineering and data preprocessing  
-- Explore deep learning and neural networks with TensorFlow/Keras  
+- Explore deep learning and neural networks with PyTorch 
 - Deploy and scale models for real-world use  
 
 ---
 
-### ⚙️ Setup & Usage
+## ⚙️ Setup & Usage
 
 ```bash
 # Clone the repository
@@ -78,18 +88,18 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ---
-### 🧩 Dependencies
+## 🧩 Dependencies
 	•	Python 3.10+
 	•	Scikit-Learn
 	•	NumPy, Pandas, Matplotlib, Seaborn
-	•	TensorFlow / Keras
+	•	PyTorch
 	•	JupyterLab
 
 (See [requirements.txt](requirements.txt) for full list.)
 
 ---
 
-### 🏆 Highlights
+## 🏆 Highlights
 	•	✅ Modular structure by chapter
 	•	✅ Real projects linked separately (e.g. Real Estate Price Predictor￼)
 	•	✅ Reproducible environments
@@ -97,7 +107,7 @@ jupyter notebook
 
 ---
 
-### 🧑‍💻 Author
+## 🧑‍💻 Author
 
 • Umut Bütün
 📍 Machine Learning Enthusiast | Python Developer<br>
@@ -105,7 +115,7 @@ jupyter notebook
 
 ---
 
-### 📜 License
+## 📜 License
 
 This repository is licensed under the MIT License.
 
