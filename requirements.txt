@@ -12,6 +12,10 @@ scikit-learn>=1.5
 matplotlib>=3.9
 seaborn>=0.13
 
+# PyTorch Versions
+torch>=2.0
+torchvision>=0.15  # if using vision datasets or models
+
 # Jupyter environment
 jupyterlab>=4.2
 ipykernel>=6.29
