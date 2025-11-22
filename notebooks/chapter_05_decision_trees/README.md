@@ -24,9 +24,17 @@ You’ll learn to visualize trees, tune their complexity, and interpret feature 
 
 ---
 
-### 📓 Notebook
-[Open Notebook](./chapter_05_notebook.ipynb)
+### 🔗 Quick Links
 
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](./chapter_05_notebook.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/hands-on-machine-learning-practice/blob/main/notebooks/chapter_05_decision_trees/chapter_05_notebook.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
 ---
 
 ### 📊 Preview
