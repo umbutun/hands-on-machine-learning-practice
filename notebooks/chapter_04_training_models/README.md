@@ -29,11 +29,32 @@ You’ll experiment with gradient descent variants and visualize how models lear
 ---
 
 ### 📊 Preview
-<p align="center">
-  <img src="../../assets/charts/chapter_04_learning_curves.png" width="65%" alt="Learning Curves Example"/>
+
+<p align="left">
+  <img src="../../assets/charts/chapter_04_gradient_descent_plot.png" width="75%" alt="Gradient Descent With Different Learning Rates"/>
 </p>
 
-*Figure 1 — Typical learning curves showing underfitting and overfitting.*
+*Figure 1: Gradient Descent With Different Learning Rates*
+
+<p align="left">
+  <img src="../../assets/charts/chapter_04_learning_curves_plot.png" width="75%" alt="Learning Curves Plot"/>
+</p>
+
+*Figure 2: Learning Curves Plot for an Overfitting Example*
+
+<p align="left">
+  <img src="../../assets/charts/chapter_04_lasso_vs_ridge_plot.png" width="75%" alt="Lasso vs. Ridge Countour"/>
+</p>
+
+*Figure 3: Lasso and Ridge Regularization Cost Function*
+
+<p align="left">
+  <img src="../../assets/charts/chapter_04_softmax_regression_contour_plot.png" width="75%" alt="Softmax Regression"/>
+</p>
+
+*Figure 4: Softmax Regression ContourPlot Displaying Decision Boundaries, Corresponding Probabilities and Multinomial Classification*
+
+
 
 ---
 
@@ -45,7 +66,7 @@ You’ll experiment with gradient descent variants and visualize how models lear
 ---
 
 ### 📚 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Linear Models Documentation](https://scikit-learn.org/stable/modules/linear_model.html)  
 - [Gradient Descent Algorithm Explained – Towards Data Science](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)  
 
