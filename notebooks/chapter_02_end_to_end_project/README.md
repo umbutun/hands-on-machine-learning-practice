@@ -25,8 +25,16 @@ By the end, you’ll have a complete predictive model and a reproducible workflo
 
 ---
 
-### 📓 Notebook
-[Open Notebook](https://github.com/umbutun/real-estate-price-predictor/blob/main/notebook/real_estate_price_predictor.ipynb)
+### 🔗 Quick Links
+
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](https://github.com/umbutun/real-estate-price-predictor/blob/main/notebook/real_estate_price_predictor.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/real-estate-price-predictor/blob/main/notebook/real_estate_price_predictor.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
 
 ---
 
