@@ -1,4 +1,4 @@
-# 🌲 Chapter 6 — Decision Trees
+# 🌲 Chapter 5 — Decision Trees
 
 
 ### 🪾 Overview
@@ -25,7 +25,7 @@ You’ll learn to visualize trees, tune their complexity, and interpret feature 
 ---
 
 ### 📓 Notebook
-[Open Notebook](./chapter_06_notebook.ipynb)
+[Open Notebook](./chapter_05_notebook.ipynb)
 
 ---
 
