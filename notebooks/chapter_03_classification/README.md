@@ -23,9 +23,17 @@ In this chapter, we explore various classification algorithms and their applicat
 
 ---
 
-### 📓 Notebook
-[Open Notebook](./chapter_03_notebook.ipynb)
+### 🔗 Quick Links
 
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](./chapter_03_notebook.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/hands-on-machine-learning-practice/blob/main/notebooks/chapter_03_classification/chapter_03_notebook.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
 ---
 
 ### 📊 Preview
