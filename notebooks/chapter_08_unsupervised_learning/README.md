@@ -24,6 +24,19 @@ You’ll explore clustering algorithms like **K-Means** and **DBSCAN**, and lear
 
 ---
 
+### 🔗 Quick Links
+
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](./chapter_08_notebook.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/hands-on-machine-learning-practice/blob/main/notebooks/chapter_08_unsupervised_learning/chapter_08_notebook.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
+---
+
 ### 📓 Notebook
 [Open Notebook](./chapter_08_notebook.ipynb)
 
