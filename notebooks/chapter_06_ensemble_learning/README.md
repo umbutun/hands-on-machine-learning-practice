@@ -24,14 +24,22 @@ You’ll implement **voting**, **bagging**, **pasting**, and **Random Forests**,
 
 ---
 
-### 📓 Notebook
-[Open Notebook](./chapter_07_notebook.ipynb)
+### 🔗 Quick Links
 
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](./chapter_06_notebook.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/hands-on-machine-learning-practice/blob/main/notebooks/chapter_06_ensemble_learning/chapter_06_notebook.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
 ---
 
 ### 📊 Preview
 <p align="center">
-  <img src="../../assets/charts/chapter_07_random_forest_feature_importances.png" width="65%" alt="Random Forest Feature Importances"/>
+  <img src="../../assets/charts/chapter_06_random_forest_feature_importances.png" width="65%" alt="Random Forest Feature Importances"/>
 </p>
 
 *Figure 1 — Random Forest feature importances for housing dataset.*
