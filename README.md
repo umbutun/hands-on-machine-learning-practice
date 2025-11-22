@@ -10,7 +10,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)]()
-[![Book](https://img.shields.io/badge/Book-Hands--On%20Machine%20Learning%203rd%20Ed.-green.svg)](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
+[![Book](https://img.shields.io/badge/Book-Hands--On%20Machine%20Learning-green.svg)](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 
 ---
 
@@ -87,29 +87,32 @@ jupyter notebook
 
 ```plaintext
 notebooks/
-└── chapter_01_the_machine_learning_landscape/
-└── chapter_02_end_to_end_project/
-└── chapter_03_classification/
-└── chapter_04_training_models/
-└── chapter_05_decision_trees/
-└── chapter_06_ensemble_learning/
-└── chapter_07_dimensionality_reduction/
-└── chapter_08_unsupervised_learning/
-└── chapter_09_intro_nn/
-└── chapter_10_pytorch_nn/
-└── chapter_11_training_deep/
-└── chapter_12_cnn/
-└── chapter_13_sequence/
-└── chapter_14_nlp_attention/
-└── chapter_15_transformers/
-└── chapter_16_multimodal_transformers/
-└── chapter_17_speeding_transformers/
-└── chapter_18_generative/
-└── chapter_19_rl/
+│	└── chapter_01_the_machine_learning_landscape/
+│	└── chapter_02_end_to_end_project/
+│	└── chapter_03_classification/
+│	└── chapter_04_training_models/
+│	└── chapter_05_decision_trees/
+│	└── chapter_06_ensemble_learning/
+│	└── chapter_07_dimensionality_reduction/
+│	└── chapter_08_unsupervised_learning/
+│	└── chapter_09_intro_nn/
+│	└── chapter_10_pytorch_nn/
+│	└── chapter_11_training_deep/
+│	└── chapter_12_cnn/
+│	└── chapter_13_sequence/
+│	└── chapter_14_nlp_attention/
+│	└── chapter_15_transformers/
+│	└── chapter_16_multimodal_transformers/
+│	└── chapter_17_speeding_transformers/
+│	└── chapter_18_generative/
+│	└── chapter_19_rl/
+├── assets/
+│   └── charts/
+├── requirements.txt
+├── environment.yml
+├── LICENSE
+└── README.md
 
-assets/
-└── banners/
-└── charts/
 ```
 ---
 
