@@ -23,9 +23,17 @@ You’ll experiment with gradient descent variants and visualize how models lear
 - Visualized cost-function convergence and learning curves  
 ---
 
-### 📓 Notebook
-[Open Notebook](./chapter_04_notebook.ipynb)
+### 🔗 Quick Links
 
+- 📓 **Open Chapter Notebook:**  
+  [Open Notebook](./chapter_04_notebook.ipynb)
+
+- ☁️ **Open in Google Colab:**  
+  <a href="https://colab.research.google.com/github/umbutun/hands-on-machine-learning-practice/blob/main/notebooks/chapter_04_training_models/chapter_04_notebook.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to Hands-On-Machine-Learning-Practice Collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
 ---
 
 ### 📊 Preview
