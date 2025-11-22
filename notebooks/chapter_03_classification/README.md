@@ -29,7 +29,24 @@ In this chapter, we explore various classification algorithms and their applicat
 ---
 
 ### 📊 Preview
-![Chapter 03 Preview](path/to/your/preview_image.png)
+
+<p align="left">
+  <img src="../../assets/charts/chapter_03_precision_recall_vs_threshold_plot.png" width="75%" alt="Precision Recall"/>
+</p>
+
+*Figure 1: Precision and Recall at a Certain Threshold*
+
+<p align="left">
+  <img src="../../assets/charts/chapter_03_pr_curve_comparison_plot.png" width="75%" alt="Precision Recall Comparison"/>
+</p>
+
+*Figure 2: Comparing Two Models With Drawing Precision vs. Recall*
+
+<p align="left">
+  <img src="../../assets/charts//chapter_03_confusion_matrix_plot_1.png" width="75%" alt="Confusion Matrix"/>
+</p>
+
+*Figure 3: Confusion Matrix and Normalized CM Displaying Predicted vs. Actual Label*
 
 ---
 
