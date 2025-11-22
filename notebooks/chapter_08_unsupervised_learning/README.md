@@ -37,11 +37,6 @@ You’ll explore clustering algorithms like **K-Means** and **DBSCAN**, and lear
   
 ---
 
-### 📓 Notebook
-[Open Notebook](./chapter_08_notebook.ipynb)
-
----
-
 ### 📊 Preview
 <p align="center">
   <img src="../../assets/charts/chapter_08_kmeans_clusters.png" width="65%" alt="K-Means Clustering Example"/>
