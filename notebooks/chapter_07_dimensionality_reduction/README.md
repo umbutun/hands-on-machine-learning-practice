@@ -1,4 +1,4 @@
-# 🌀 Chapter 8 — Dimensionality Reduction
+# 🌀 Chapter 7 — Dimensionality Reduction
 
 
 ### ∑ Overview
@@ -25,13 +25,13 @@ You’ll use linear methods like **PCA** and **Incremental PCA**, and non-linear
 ---
 
 ### 📓 Notebook
-[Open Notebook](./chapter_08_notebook.ipynb)
+[Open Notebook](./chapter_07_notebook.ipynb)
 
 ---
 
 ### 📊 Preview
 <p align="center">
-  <img src="../../assets/charts/chapter_08_tsne_visualization.png" width="65%" alt="t-SNE Visualization"/>
+  <img src="../../assets/charts/chapter_07_tsne_visualization.png" width="65%" alt="t-SNE Visualization"/>
 </p>
 
 *Figure 1 — t-SNE 2D visualization of MNIST embeddings.*
@@ -46,7 +46,7 @@ You’ll use linear methods like **PCA** and **Incremental PCA**, and non-linear
 ---
 
 ### 📚 Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Decomposition Module](https://scikit-learn.org/stable/modules/decomposition.html)  
 - [t-SNE Algorithm Explained – Distill.pub](https://distill.pub/2016/misread-tsne/)  
 
