@@ -29,15 +29,6 @@ You’ll learn how kernel methods project data into higher dimensions to make it
 
 ---
 
-### 📊 Preview
-<p align="center">
-  <img src="../../assets/charts/chapter_05_svm_decision_boundaries.png" width="65%" alt="SVM Decision Boundaries"/>
-</p>
-
-*Figure 1 — SVM classifier with non-linear decision boundaries.*
-
----
-
 ### ⚙️ Dependencies
 - Python ≥ 3.10  
 - NumPy • Pandas • Matplotlib • Scikit-Learn  
