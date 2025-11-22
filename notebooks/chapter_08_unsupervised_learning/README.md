@@ -1,4 +1,4 @@
-# 🧩 Chapter 9 — Unsupervised Learning Techniques
+# 🧩 Chapter 8 — Unsupervised Learning Techniques
 
 
 ### 🩳 Overview
@@ -25,13 +25,13 @@ You’ll explore clustering algorithms like **K-Means** and **DBSCAN**, and lear
 ---
 
 ### 📓 Notebook
-[Open Notebook](./chapter_09_notebook.ipynb)
+[Open Notebook](./chapter_08_notebook.ipynb)
 
 ---
 
 ### 📊 Preview
 <p align="center">
-  <img src="../../assets/charts/chapter_09_kmeans_clusters.png" width="65%" alt="K-Means Clustering Example"/>
+  <img src="../../assets/charts/chapter_08_kmeans_clusters.png" width="65%" alt="K-Means Clustering Example"/>
 </p>
 
 *Figure 1 — K-Means clustering on 2D synthetic data.*
@@ -46,7 +46,7 @@ You’ll explore clustering algorithms like **K-Means** and **DBSCAN**, and lear
 ---
 
 ### ※ Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-Learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)  
 - [Visualizing Clustering Algorithms – Towards Data Science](https://towardsdatascience.com/clustering-algorithms-with-python-5eaffc8b9b78)  
 
