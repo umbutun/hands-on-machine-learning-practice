@@ -60,7 +60,7 @@ In this chapter, we explore various classification algorithms and their applicat
 ---
 
 ### ㈾ Resources
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 
 ---
